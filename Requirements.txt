@@ -1,2 +1,4 @@
-python
 pandas
+flake8
+pytest
+pytest-html
