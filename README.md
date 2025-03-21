@@ -9,13 +9,16 @@ This project validates the functionality of a Data Processor module. The Data pr
 - Saving the results as `odi_results.csv` and `test_results.csv`
 - Validates output and generates `test_result.csv`
 
+
 ## Repository Structure
 ```
 📦 Assignment
 ├── inputDataSet/            # Input files (.csv & .json)
 ├── outputDataSet/           # Expected output files
 ├── assignment.py            # Main script
+├── assignment_test.py   # Test script
 ├── requirements.txt         # Dependencies
+├── .github/workflows/       # CI/CD setup
 └── README.md                # Project documentation
 ```
 
